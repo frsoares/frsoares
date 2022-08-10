@@ -1,5 +1,18 @@
 <!-- ### Hello there 👋 -->
-### Isto é uma página do Github :octocat:
+## Hello there :octocat:
+
+- 🧔‍♂️ Friends call me Francisco, Chico, Chicão, etc. I don't care much
+- 🌱 I'm currently learning SwiftUI and Swift Concurrency
+- 💬 Ask me about iOS development, functional programming and sw. engineering
+- 📢 We can chat in 🇧🇷 and/or 🇬🇧. I'm very rusty in 🇫🇷
+- 😄 Pronouns: He/him/his - Ele/dele
+- 🐕 Dog parent
+
+
+<div align="center">
+  <a href="https://github.com/frsoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frsoares&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!-- *more info coming soon...* -->
 <!--
