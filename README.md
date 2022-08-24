@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/frsoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frsoares&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frsoares&layout=compact&langs_count=7&theme=midnight-purple&exclude_repo=aspect-hamster,gridmonitor,patdown"/>
 </div>
 
 <!-- *more info coming soon...* -->
