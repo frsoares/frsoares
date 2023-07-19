@@ -6,7 +6,7 @@
 - 💬 Ask me about iOS development, functional programming and sw. engineering
 - 📢 We can chat in 🇧🇷 and/or 🇬🇧. I'm very rusty in 🇫🇷
 - 😄 Pronouns: He/him/his - Ele/dele
-- 🐕 Dog parent
+- 🐕 Dog parent to Clarinha and Jambo
 
 
 <div align="center">
